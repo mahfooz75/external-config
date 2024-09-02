@@ -1,4 +1,4 @@
 test:
   msg: Hello from patient-service for PROD profile from my branch
 server:
-  port: 8081
+  port: 8083
