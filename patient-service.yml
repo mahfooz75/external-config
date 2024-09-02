@@ -1,4 +1,6 @@
 test:
   msg: Hello from patient-service for DEFAULT profile from my branch
+my:
+  name: Ahmad
 server:
   port: 8081
