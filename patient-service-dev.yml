@@ -1,6 +1,6 @@
 test:
   msg: Hello from patient-service for DEV profile from my branch
 my:
-  name: Maaz Khan
+  name: Maaz
 server:
   port: 0
