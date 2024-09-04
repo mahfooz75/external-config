@@ -1,6 +1,6 @@
 test:
   msg: Hello from patient-service for DEFAULT profile from master
 my:
-  name: Mahfooz from DEFAULT
+  name: Mahfooz 1 from DEFAULT
 server:
   port: 8081
