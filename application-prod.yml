@@ -1,2 +1,2 @@
-test:
+common:
   msg: Hello from PROD from master
