@@ -1,6 +1,6 @@
 test:
   msg: Hello from patient-service for DEV profile from master
 my:
-  name: SELF TECH LEARNER
+  name: SELF TECH LEARNER 1
 server:
   port: 0
