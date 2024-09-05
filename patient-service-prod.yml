@@ -1,6 +1,6 @@
 test:
   msg: Hello from patient-service for PROD profile from my branch
 my:
-  name: Mahfooz
+  name: Mahfooz from PROD
 server:
   port: 8083
