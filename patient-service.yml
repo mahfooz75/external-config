@@ -1,5 +1,5 @@
 test:
-  msg: Hello from patient-service for DEFAULT profile from master
+  msg: Hello from patient-service from DEFAULT profile and MASTER branch
 my:
   name: Mahfooz from DEFAULT
 server:
