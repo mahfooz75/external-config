@@ -1,5 +1,5 @@
 test:
-  msg: Hello from patient-service for PROD profile from my branch
+  msg: Hello from patient-service from PROD profile and MYBRANCH branch
 my:
   name: Mahfooz from PROD
 server:
