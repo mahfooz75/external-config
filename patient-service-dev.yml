@@ -1,5 +1,5 @@
 test:
-  msg: Hello from patient-service for DEV profile from master
+  msg: Hello from patient-service from DEV profile and MASTER branch
 my:
   name: Mahfooz from DEV
 server:
