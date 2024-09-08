@@ -1,6 +1,6 @@
 test:
   msg: Hello from patient-service from DEV profile and MASTER branch
 my:
-  name: Mahfooz from DEV
+  name: Mahfooz 1 from DEV
 server:
   port: 8082
